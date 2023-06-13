@@ -1,2 +1,2 @@
-# part1kll:
-nnnnnn
+# part1
+welo
